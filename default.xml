@@ -27,7 +27,7 @@
   <project path="device/sample" name="device/sample" />
   <project path="device/samsung/maguro" name="device/samsung/maguro" />
   <project path="device/samsung/tuna" name="device/samsung/tuna" />
-  <project path="device/samsung/spica" name="tom3q/device_samsung_spica" remote="github" />
+  <project path="device/samsung/spica" name="dh-harald/device_samsung_spica" remote="github" />
   <project path="device/ti/panda" name="device/ti/panda" />
   <project path="docs/source.android.com" name="platform/docs/source.android.com" />
   <project path="external/android-mock" name="platform/external/android-mock" />
